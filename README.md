@@ -1,216 +1,102 @@
 
 
+---
 
 
-# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
-</div>
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
-![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
-
-![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social) 
-![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
-
-
-
-
-
-
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me 
+# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25" /> Olá! Eu sou o Kauê Sousa 👋
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+with+a+Vision;💻+Crafting+Elegant+MERN+Solutions;🔬+Optimizing+Backend+Performance;🎯+Problem+Solver+%26+Innovation+Enthusiast" alt="Animated Typing"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Kauê%20Sousa&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20in%20progress&descAlignY=60" width="100%"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" height="30"/><br>
-      <b>Software Engineering Student</b><br>
-      <i>Daffodil International University</i>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" height="30"/><br>
-      <b>MERN Stack Developer</b><br>
-      <i>Next.js Explorer</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30"/><br>
-      <b>Building Scalable Applications</b><br>
-      <i>With Modern Technologies</i>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" height="30"/><br>
-      <b>Problem-Solving Expert</b><br>
-      <i>Data Structures & Algorithms</i>
-    </td>
-  </tr>
-</table>
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=kauesousa1&color=blue)
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
-</div>
-
-
-
-
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats 
-
+## 👨‍💻 Sobre mim
 
 <div align="center">
 
-<div width="100%">
-
-
-
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
-
-
-[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=700&lines=🚀+Estudante+Full+Stack;💻+Aprendendo+Java%2C+JavaScript+e+React;🌐+HTML+%26+CSS;🎯+Evoluindo+todos+os+dias" />
 
 </div>
 
-<div width="49%">
+---
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical) 
-
-</div>
-
-<div width="49%">
-
-  ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
-
-</div>
-
-<div width="100%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)  
-
-</div>
-
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect & Collaborate
-
-<div align="center">
-<p align="center">
-  <!-- First Row -->
-  <a href="https://codepen.io/hasanrafi03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasanrafi03" height="40" width="50" />
-  </a>
-  <a href="https://twitter.com/rafi_hasan_03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_hasan_03" height="40" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/2002hasan-rafi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2002hasan-rafi" height="40" width="50" />
-  </a>
-  <a href="https://stackoverflow.com/users/hasanrafi03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasanrafi03" height="40" width="50" />
-  </a>
-  <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhidhasanrafi.rafi" height="40" width="50" />
-  </a>
-
-</p>
-
-<p align="center">
-  <!-- Second Row -->
-  <a href="https://www.youtube.com/c/hasanrafi03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasanrafi03" height="40" width="50" />
-  </a>
-  <a href="https://www.codechef.com/users/hasanrafio3" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hasanrafio3" height="40" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/hasanrafio3" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasanrafio3" height="40" width="50" />
-  </a>
-  <a href="https://codeforces.com/profile/hasanrafi03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasanrafi03" height="40" width="50" />
-  </a>
-  <a href="https://www.leetcode.com/hasanrafi03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi03" height="40" width="50" />
-  </a>
-  <a href="https://discord.gg/hasanrafio3" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanrafio3" height="40" width="50" />
-  </a>
-</p>
-</div>
-
-## 🏆 Achievements Showcase
+## 🚀 Tecnologias
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasanRafi2002&theme=algolia)
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git" />
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
-![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake-dark.svg)
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
-
-## 💡 Support My Journey
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/hasanrafio3">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&animation=pulse" alt="Support Me"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
-</div>
-
-
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/hasanRafi2002)
-
-
-*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
-
-
-
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats 
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauesousa1&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesousa1&layout=compact&theme=tokyonight" />
 
+<br><br>
 
-
-[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical)
-
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kauesousa1&theme=tokyonight" />
 
 </div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauesousa1&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kauesousa1/kauesousa1/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="https://github.com/kauesousa1">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Frase
+
+> “Todo especialista já foi um iniciante.” 🚀
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</div>
+```
+
+---
+
+
